@@ -1,0 +1,69 @@
+# Arabic OCR Project - Git Ignore File
+
+# Reports and Documentation (Large Files)
+RAPPORT*.pdf
+*.pdf
+
+# Model Files (Large - should be downloaded separately)
+*.keras
+*.h5
+*.pb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+arabic_ocr_env/
+ocr_env/
+.env
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyQt
+*.ui~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+*.cache
+
+# Sample images (optional - comment out if you want to include them)
+# set_*_images/
+# sample_images/
+# test_images/

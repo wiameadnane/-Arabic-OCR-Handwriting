@@ -1,0 +1,22 @@
+name: arabic-ocr
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python version (tested with 3.11-3.12)
+  - python>=3.11,<3.13
+  
+  # Scientific computing
+  - numpy>=1.21.0,<2.0.0
+  - matplotlib>=3.5.0
+  - h5py>=3.1.0
+  
+  # Image processing
+  - opencv>=4.5.0
+  - pillow>=8.3.0
+  
+  # Pip dependencies
+  - pip
+  - pip:
+    - tensorflow-cpu>=2.16.1
+    - PyQt6>=6.0.0
