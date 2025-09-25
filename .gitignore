@@ -5,7 +5,6 @@ RAPPORT*.pdf
 *.pdf
 
 # Model Files (Large - should be downloaded separately)
-*.keras
 *.h5
 *.pb
 
@@ -63,7 +62,5 @@ desktop.ini
 .cache/
 *.cache
 
-# Sample images (optional - comment out if you want to include them)
-# set_*_images/
-# sample_images/
-# test_images/
+# Sample images (large dataset files)
+set_a_images/
