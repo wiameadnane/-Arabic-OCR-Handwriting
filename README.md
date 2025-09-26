@@ -16,18 +16,30 @@ This project was developed as part of the Deep Learning course at École d'Ingé
 
 ### Platform
 #### Main Interface
-![Main Screen](screenshots/main-screen.png)
-*The main interface showing the welcome screen with Arabic text and upload functionality*
+<div align="center">
+  <img src="screenshots/main-screen.png" alt="Main Screen" width="600">
+  <br>
+  <em>The main interface showing the welcome screen with Arabic text and upload functionality</em>
+</div>
 
 #### Recognition Results
-![Test Example 1](screenshots/test_word1.png)
-*Example of Arabic handwritten text recognition - Test case 1*
+<div align="center">
+  <img src="screenshots/test_word1.png" alt="Test Example 1" width="400">
+  <br>
+  <em>Example of Arabic handwritten text recognition - Test case 1</em>
+</div>
 
-![Test Example 2](screenshots/test_word2.png)
-*Example of Arabic handwritten text recognition - Test case 2*
+<div align="center">
+  <img src="screenshots/test_word2.png" alt="Test Example 2" width="400">
+  <br>
+  <em>Example of Arabic handwritten text recognition - Test case 2</em>
+</div>
 
-![Test Example 3](screenshots/test_word3.png)
-*Example of Arabic handwritten text recognition - Test case 3*
+<div align="center">
+  <img src="screenshots/test_word3.png" alt="Test Example 3" width="400">
+  <br>
+  <em>Example of Arabic handwritten text recognition - Test case 3</em>
+</div>
 ## 🏗️ Architecture
 
 The model combines several state-of-the-art techniques:
