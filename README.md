@@ -13,6 +13,21 @@ This project was developed as part of the Deep Learning course at École d'Ingé
 - Pre-trained model ready for deployment
 - Comprehensive preprocessing pipeline
 
+
+### Platform
+#### Main Interface
+![Main Screen](screenshots/main-screen.png)
+*The main interface showing the welcome screen with Arabic text and upload functionality*
+
+#### Recognition Results
+![Test Example 1](screenshots/test_word1.png)
+*Example of Arabic handwritten text recognition - Test case 1*
+
+![Test Example 2](screenshots/test_word2.png)
+*Example of Arabic handwritten text recognition - Test case 2*
+
+![Test Example 3](screenshots/test_word3.png)
+*Example of Arabic handwritten text recognition - Test case 3*
 ## 🏗️ Architecture
 
 The model combines several state-of-the-art techniques:
@@ -154,22 +169,6 @@ The model was trained in multiple phases:
 - **Dual Decoding Display**: Shows results from both decoding methods
 - **Image Preview**: Displays uploaded image with proper scaling
 - **Intuitive Navigation**: Simple two-screen interface
-
-### Screenshots
-
-#### Main Interface
-![Main Screen](screenshots/main-screen.png)
-*The main interface showing the welcome screen with Arabic text and upload functionality*
-
-#### Recognition Results
-![Test Example 1](screenshots/test_word1.png)
-*Example of Arabic handwritten text recognition - Test case 1*
-
-![Test Example 2](screenshots/test_word2.png)
-*Example of Arabic handwritten text recognition - Test case 2*
-
-![Test Example 3](screenshots/test_word3.png)
-*Example of Arabic handwritten text recognition - Test case 3*
 
 ## 🧪 Evaluation
 
